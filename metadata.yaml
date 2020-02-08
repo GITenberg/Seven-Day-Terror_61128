@@ -1,0 +1,30 @@
+_repo: Seven-Day-Terror_61128
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Lafferty, R. A.
+    alias: Lafferty, Raphael Aloysius
+    birthdate: 1914
+    deathdate: 2002
+    gutenberg_agent_id: '25720'
+    url: http://www.gutenberg.org/2009/agents/25720
+    wikipedia: http://en.wikipedia.org/wiki/R.A._Lafferty
+description: ''
+gutenberg_issued: '2020-01-07'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '61128'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Brothers and sisters -- Fiction'
+- !lcsh 'Science fiction'
+- !lcsh 'Short stories'
+- !lcc 'PS'
+- !lcsh 'Inventions -- Fiction'
+- !lcsh 'Children -- Fiction'
+- GITenberg
+title: Seven-Day Terror
+url: http://www.gutenberg.org/ebooks/61128
